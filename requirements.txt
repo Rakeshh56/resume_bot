@@ -1,0 +1,13 @@
+txt
+Copy
+Edit
+streamlit
+langchain
+langchain-core
+langchain-community
+huggingface-hub
+transformers
+PyMuPDF
+torch
+accelerate
+python-dotenv

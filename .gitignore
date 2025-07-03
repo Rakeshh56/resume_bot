@@ -1,0 +1,18 @@
+gitignore
+Copy
+Edit
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Mac/Linux/Windows junk
+.DS_Store
+Thumbs.db
